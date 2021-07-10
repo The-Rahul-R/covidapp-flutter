@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257207831620",
+    "project_id": "major-17ae1",
+    "storage_bucket": "major-17ae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257207831620:android:4aaa9622fa4c815dad0011",
+        "android_client_info": {
+          "package_name": "com.inceptrafay.covidtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257207831620-brcnu34dd2ka5a7uve8av386reka6nfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLhh8u2p6Wrqk05bgfS-9GjiRU81_mu0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257207831620-brcnu34dd2ka5a7uve8av386reka6nfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
